@@ -121,3 +121,30 @@ h2{
     font-size: 40px;
     text-align: center;
 }
+.third-container{
+    height: 200px;
+    color: #f4f7fc;
+    align-items: center;
+    padding-left: 150px;
+
+}
+.third-containe p{
+    text-shadow: #E5E7EB;
+    font-weight:500;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#left{
+    padding-left: 500px;
+}
+.fourth-container{
+    background-color: #3882F6;
+    width: 1000px;
+    height: 100px;
+    margin: 0 auto;
+    border: 1px #04265e ;
+    padding: 40px 40px;
+    border-radius: 10px;
+    
+}
